@@ -1,0 +1,38 @@
+
+        #outerDiv {
+            
+            background-color: blue;
+            width: 100%;
+        }
+
+        #middleDiv {
+            
+            background-color: green;
+            width :50%;
+        }
+
+        #innerDiv {
+            
+            background-color: red;
+            width: 25%;
+        }
+        
+        
+        #outerDiv2 {
+            
+            background-color: lightblue;
+            width: 100%;
+        }
+
+        #middleDiv2 {
+            
+            background-color: lightpink;
+            width: 50%;
+        }
+
+        #innerDiv2 {
+            
+            background-color: palevioletred;
+            width:25%;
+        }
+   
